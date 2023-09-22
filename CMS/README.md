@@ -11,3 +11,7 @@ Para instalação e uso da aplicação basta usar os comandos:
 npm install;
 npm start;
 ```
+
+
+<p>Imagens do portal:</p>
+<img src='https://i.ibb.co/1mT6W1V/1.png' alt='imagem-CMS'>
