@@ -10,9 +10,10 @@ import Section from './sections';
 import SectionBottom from './sections/SectionBottom';
 import Signature from './signature';
 import SectionInsta from './sections/SectionInsta';
+import ScrollToTop from './button/ScrollToTop';
 
 export {
   ButtonBack, ButtonSection, Footer, Header,
   ImagemTop, ModalHeader, ModalShare, ModalShareNetworks,
-  Section, SectionBottom, SectionInsta, Signature
+  Section, SectionBottom, SectionInsta, Signature, ScrollToTop
 }

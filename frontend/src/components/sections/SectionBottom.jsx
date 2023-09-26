@@ -1,7 +1,7 @@
 import React from "react";
 import { styled } from "styled-components";
 import * as S from "./styles";
-import ButtonActions from "../button/ButtonSection";
+import ButtonSection from "../button/ButtonSection";
 const SectionBottom = () => {
   return (
     <>
@@ -34,7 +34,7 @@ const SectionBottom = () => {
             <br />
             <Input type="text" />
           </span>
-          <ButtonActions
+          <ButtonSection
             style={{ padding: "1rem 5rem 1rem 5rem" }}
             text="Enviar"
           />
