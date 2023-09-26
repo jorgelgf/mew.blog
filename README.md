@@ -12,4 +12,4 @@
 
 ### CMS || Mobile || Desktop 
 
-<img src="https://i.ibb.co/CwXbxFj/tela-geral-compressed-1.jpg" alt="pages: CMS || Mobile || Desktop">
+<img src="https://i.ibb.co/dMwmTZ0/tela-geral-compressed.jpg" alt="pages: CMS || Mobile || Desktop">
