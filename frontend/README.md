@@ -1,24 +1,24 @@
 # BLOG - Meow.Blog
-## Projeto de um blog com contos do universo felino 
+## Project for a blog with tales from the feline universe
 
-## Tecnologias utilizadas:
+## Technologies used:
 ReactJS
 
-<b>Para instalação e uso é necessário o NodeJS instalado no computador</b>
+<b>For installation and use, NodeJS is required installed on the computer.</b>
 
-<p>Comandos para instalação e uso da aplicação:</p>
+<p>Commands for installing and using the application:</p>
 
 ```
 npm install;
 npm start;
 ```
 
-<p>Imagens do portal:</p>
+<p>Img:</p>
 
-<p>Visão Desktop</p>
+<p>Desktop</p>
 <img src='https://i.ibb.co/GPXBMdQ/desk1.png' alt='imagem-Desk'>
 
-<p>Visão Mobile</p>
+<p>Mobile</p>
 <img src='https://i.ibb.co/1dVpX8s/mob1.png' alt='imagem-Mobi1'>
 
 <img src='https://i.ibb.co/Mp4NbgW/mob2.png' alt='imagem-Mobi2'>
